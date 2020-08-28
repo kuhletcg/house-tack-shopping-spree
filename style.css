@@ -1,0 +1,57 @@
+h1{
+    color: black;
+    margin: 0px;
+    padding: 0px;
+    font-size: 80px;
+text-align: center;
+background-color: #c3aed6;
+font-family:('https://dl.dafont.com/dl/?f=rosellinda_alyamore');
+}
+h1 {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+p{
+margin: 10px 0px 0px 0px;
+color: blue;
+font-weight: bold;
+}
+body{ 
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+background-color: pink;
+text-align: center;
+font-family: ("https://www.1001freefonts.com/d/26635/quark-cheese.zip");
+}
+img{
+    width: 400px;
+    height: auto;
+border-radius: 50%;
+}
+
+.grid-container {
+    display:grid;
+    grid-template-columns: auto auto;
+
+}
+.dress>img {
+    width: 30vh;
+    height: 35vh;
+}
+.sneacker>img {
+    width: 30vh;
+    height: 35vh;
+}
+.Jeans>img {
+    width: 30vh;
+    height: 35vh;
+}
+.T-shirt>img {
+    width: 30vh;
+    height: 35vh;
+}
+.Tracksuit>img {
+    width: 30vh;
+    height: 35vh;
+}
